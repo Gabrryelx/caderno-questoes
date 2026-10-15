@@ -1,0 +1,811 @@
+{
+ "groups": [
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "obras/pas3/teatro",
+    "portugues/interpretacao-de-texto"
+   ],
+   "support": "> **Texto-base (resumo)** — Nelson Rodrigues, *A verdadeira apoteose é a vaia*. O autor defende o “teatro desagradável”, que anula qualquer distância entre plateia e peça: a plateia sofre como o personagem e, quando deixa de existir como plateia, realiza-se o “mistério teatral”. Só depois, com o pano baixado, é que se faz a “distância crítica”. Critica Brecht, que teria criado a “distância crítica” para isolar a emoção, mas faria concessões ao patético. Cita *Anjo Negro*, *Senhora dos Afogados*, *Doroteia* e *Perdoa-me por me Traíres*, esta recebida com uma vaia memorável no Teatro Municipal.\n>\n> Itens 11–16: *Perdoa-me por me Traíres* (Nelson Rodrigues) e *A exceção e a regra* (Brecht). Itens 17–18: *Autorretrato como soldado* (Ernst Kirchner, 1915).",
+   "questions": [
+    {
+     "n": 11,
+     "type": "ce",
+     "answer": "E",
+     "statement": "No universo de significado criado no primeiro parágrafo, as expressões ‘teatro desagradável’ e ‘distância crítica’ se complementam no que diz respeito à relação entre o público, a peça e a emoção que esta desencadeia.",
+     "explanation": "No texto, o “teatro desagradável” (anular a distância, sofrimento compartilhado) é apresentado em **oposição** à “distância crítica” brechtiana, que Rodrigues critica. Elas se contrapõem; não se complementam."
+    },
+    {
+     "n": 12,
+     "type": "ce",
+     "answer": "E",
+     "statement": "No trecho “só então é que se faz a ‘distância crítica’” (quinto período do segundo parágrafo), o vocábulo “se” indica que o sujeito da oração é indeterminado.",
+     "explanation": "“se” é partícula **apassivadora**: “se faz a distância crítica” = “a distância crítica é feita”. O sujeito (“a distância crítica”) é determinado.",
+     "tags": [
+      "portugues/sintaxe"
+     ]
+    },
+    {
+     "n": 13,
+     "type": "ce",
+     "answer": "E",
+     "statement": "O teatro épico de Bertold Brecht caracterizava-se pelo distanciamento crítico e pela negação de qualquer emoção em cena, de forma que a plateia se envolvesse apenas de maneira crítica com o que assistia.",
+     "explanation": "O distanciamento brechtiano visa estimular a reflexão, mas **não nega** a emoção em cena. O erro está em “negação de qualquer emoção”."
+    },
+    {
+     "n": 14,
+     "type": "ce",
+     "answer": "C",
+     "statement": "As obras *Perdoa-me por me traíres* e *A exceção e a regra* evidenciam estruturas de poder e fazem o público refletir sobre questões sociais e políticas, ainda que proponham diferentes modos de envolvimento afetivo entre público e obra.",
+     "explanation": "Ambas expõem estruturas de poder e levam à reflexão social/política, por caminhos distintos: Rodrigues, pelo envolvimento emocional radical; Brecht, pelo distanciamento crítico."
+    },
+    {
+     "n": 15,
+     "type": "ce",
+     "answer": "C",
+     "statement": "É possível realizar uma montagem de *Perdoa-me por me traíres* conforme o modelo do teatro épico, por meio, por exemplo, de procedimentos que façam o público refletir sobre a obra enquanto a assiste, tal como a quebra da quarta parede e uma interpretação e encenação (cenografia, iluminação, figurino) que provoquem o distanciamento crítico do público, equipe artística e técnica.",
+     "explanation": "Procedimentos épicos (quebra da quarta parede, cenografia e interpretação que geram estranhamento) podem ser aplicados a textos de outros autores; a encenação é uma releitura."
+    },
+    {
+     "n": 16,
+     "type": "ce",
+     "answer": "E",
+     "statement": "No século XX, o avanço tecnológico na iluminação e o uso de projeção de imagens, assim como os novos materiais para cenários e figurinos, diversificaram as possibilidades de encenação e relação com o público, mas não afetaram a escrita das peças, como se pode evidenciar pelas rubricas dos textos, que ignoram qualquer indicação desse tipo.",
+     "explanation": "As rubricas (indicações cênicas) dos textos do século XX frequentemente incorporam luz, projeções e materiais. A tecnologia **afetou** também a escrita dramatúrgica."
+    },
+    {
+     "n": 17,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Ernst Kirchner integrava o grupo *Die Brücke* (*A ponte*), um grupo de artistas ao qual o movimento expressionista é associado.",
+     "explanation": "Kirchner foi um dos fundadores do *Die Brücke* (Dresden, 1905), núcleo do Expressionismo alemão.",
+     "tags": [
+      "artes/expressionismo"
+     ]
+    },
+    {
+     "n": 18,
+     "type": "ce",
+     "answer": "E",
+     "statement": "O contexto traumático da guerra experimentado por Kirchner serviu de referência para a mencionada obra, na qual ele retrata a consequência física por ele sofrida durante o conflito.",
+     "explanation": "Gabarito: **E**. Na obra, a mão decepada é **simbólica** (perda da capacidade de pintar, angústia diante da guerra); Kirchner sofreu um colapso psíquico, não uma mutilação física no conflito.",
+     "tags": [
+      "artes/expressionismo"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024"
+   ],
+   "support": "",
+   "questions": [
+    {
+     "n": 19,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Terminada a Segunda Guerra Mundial, criou-se um clima favorável à cooperação internacional e à democracia, o que, no Brasil, favoreceu o fim do Estado Novo.",
+     "explanation": "A derrota do nazifascismo (1945) fortaleceu o ideário democrático; a contradição de lutar pela democracia na Europa enquanto vigorava o Estado Novo pressionou pelo fim do regime (Vargas foi deposto em out/1945).",
+     "tags": [
+      "historia/2a-guerra-mundial",
+      "historia/historia-do-brasil"
+     ]
+    },
+    {
+     "n": 23,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A grande guerra de 1914 foi um desdobramento da corrida imperialista iniciada no século XIX, além de ter sido determinada por fatores como o nacionalismo, o militarismo e a diplomacia secreta.",
+     "explanation": "Imperialismo e disputa por mercados, nacionalismos, corrida armamentista (militarismo) e sistema de alianças secretas estão entre as causas clássicas da Primeira Guerra.",
+     "tags": [
+      "historia/1a-guerra-mundial"
+     ]
+    },
+    {
+     "n": 24,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Enquanto os regimes fascistas eram totalitários de direita, o soviético, de esquerda, praticava as liberdades democráticas.",
+     "explanation": "O regime soviético (stalinismo) também foi totalitário: partido único, repressão política e supressão das liberdades democráticas.",
+     "tags": [
+      "historia/totalitarismo"
+     ]
+    },
+    {
+     "n": 25,
+     "type": "ce",
+     "answer": "C",
+     "statement": "O século XX foi marcado, entre outros aspectos fundamentais, por incontáveis conflitos armados, o que o caracteriza como mais mortífero período da história registrada.",
+     "explanation": "Gabarito oficial: **C**. As duas guerras mundiais, a Guerra Fria (com guerras por procuração) e inúmeros conflitos regionais fazem do século XX o mais mortífero.",
+     "tags": [
+      "historia/2a-guerra-mundial"
+     ]
+    },
+    {
+     "n": 26,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Os regimes fascistas, como o italiano e o alemão (nazismo), defendiam a alegria e o permanente sorriso como forma de fazer a população acreditar ser possível um mundo pacífico e de paz.",
+     "explanation": "Fascismo e nazismo exaltavam o militarismo, o culto ao líder, o nacionalismo e a violência/guerra, não a construção de um “mundo pacífico”.",
+     "tags": [
+      "historia/totalitarismo"
+     ]
+    },
+    {
+     "n": 105,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Baixado em dezembro de 1968, o Ato Institucional n.º 5 (AI-5) foi o primeiro sinal de que o regime militar se dispunha a promover a abertura política e preparar o país para a redemocratização.",
+     "explanation": "O AI-5 (13/12/1968) **endureceu** o regime: fechou o Congresso, suspendeu o habeas corpus e ampliou a censura. A abertura “lenta, gradual e segura” só começou com Geisel (1974).",
+     "tags": [
+      "historia/historia-do-brasil"
+     ]
+    },
+    {
+     "n": 110,
+     "type": "abcd",
+     "answer": "A",
+     "statement": "A trajetória da República brasileira, de sua proclamação, em 1889, ao momento presente, é marcada por muitos momentos de crises, sobretudo políticas. Em algumas situações, a ruptura institucional ocorreu quase sempre determinada por golpes de Estado. Em relação ao Brasil republicano, assinale a opção correta.",
+     "explanation": "**A** — a República nasceu de um golpe militar (1889). B: os militares intervieram (1961–64). C: Geisel e Figueiredo conduziram a abertura. D: a Constituição de 1988 ampliou direitos (“Constituição Cidadã”).",
+     "tags": [
+      "historia/historia-do-brasil"
+     ],
+     "options": [
+      "A proclamação da República assinalou o início da presença dos militares na política do país.",
+      "Os militares optaram por não intervir politicamente no tenso período dos governos Jânio Quadros e João Goulart.",
+      "Geisel e Figueiredo, os últimos presidentes militares, esforçaram-se para impedir a abertura política do regime.",
+      "No período de redemocratização do país, destaca-se a Constituição de 1988, criticada por omitir os direitos da cidadania."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "atualidades/questao-indigena"
+   ],
+   "support": "> **Texto-base (resumo)** — O vídeo *A questão indígena em quatro minutos* (Agência Pública) problematiza o processo demarcatório das terras indígenas no Brasil e as responsabilidades institucionais do Estado com essas populações. Destaca que a conservação das terras indígenas mantém serviços ambientais, funcionando como barreira a atividades ilegais de exploração da natureza.",
+   "questions": [
+    {
+     "n": 31,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A demarcação das terras indígenas está relacionada a ações que visam à preservação dos recursos naturais e à sustentabilidade ambiental.",
+     "explanation": "Terras demarcadas protegem recursos naturais e a sustentabilidade ambiental, como destaca o texto-base."
+    },
+    {
+     "n": 32,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A Fundação Nacional dos Povos Indígenas (FUNAI) é a instituição responsável pela identificação, demarcação e monitoramento das terras indígenas, além da proteção social e do apoio a essas comunidades.",
+     "explanation": "A FUNAI atua na identificação, demarcação, monitoramento e proteção das terras e no apoio às comunidades."
+    },
+    {
+     "n": 33,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Atualmente, a população indígena no Brasil é de cerca de 800 mil pessoas, estando a maior parte concentrada na região Sul do país.",
+     "explanation": "Falso. O Censo 2022 (IBGE) contou cerca de 1,7 milhão de indígenas, concentrados principalmente nas regiões Norte e Nordeste."
+    },
+    {
+     "n": 34,
+     "type": "ce",
+     "answer": "E",
+     "statement": "A proteção das populações indígenas é uma ação direcionada à preservação histórica e ao respeito aos direitos humanos, não estando relacionada a formas de enfrentamento do desmatamento.",
+     "explanation": "Falso: terras indígenas protegidas funcionam como barreira ao desmatamento; a proteção está sim relacionada ao seu enfrentamento."
+    },
+    {
+     "n": 36,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A principal causa dos conflitos em terras indígenas está associada à não homologação dos territórios indígenas, em descumprimento ao previsto na Constituição Federal de 1988.",
+     "explanation": "Segundo o gabarito oficial (C), a não homologação/demarcação dos territórios, em descumprimento à CF/1988, é a principal causa dos conflitos."
+    },
+    {
+     "n": 37,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A baixa disponibilidade de recursos orçamentários pelo Estado e a pressão de agentes contrários à pauta indígena são desafios para o reconhecimento das terras indígenas no Brasil.",
+     "explanation": "Falta de orçamento e pressão de grupos contrários à pauta indígena dificultam o reconhecimento e a demarcação das terras."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "fisica/eletrostatica"
+   ],
+   "support": "> Durante uma tempestade, um raio típico produz uma descarga elétrica cuja intensidade pode atingir 30 mil ampères. A diferença de potencial elétrico entre a nuvem e a terra tem um valor típico de 100 milhões de volts. Com esses valores, e considerando que a distância da nuvem ao solo seja em torno de 1 quilômetro, o tempo de duração efetivo de um raio é em torno de 0,1 milissegundo.",
+   "questions": [
+    {
+     "n": 38,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Durante uma tempestade com raios de magnitude como a da situação apresentada, é muito seguro ficar próximo à praia, com os pés dentro do mar.",
+     "explanation": "Perigoso: a água é condutora e a corrente do raio se espalha pelo mar. Deve-se sair da água e buscar abrigo."
+    },
+    {
+     "n": 39,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Na situação apresentada, a potência do raio tem valor em torno de 3 trilhões de watts.",
+     "explanation": "$P = V\\cdot I = 10^{8}\\cdot 3\\cdot 10^{4} = 3\\cdot 10^{12}\\ \\text{W}$ (3 trilhões de watts)."
+    },
+    {
+     "n": 40,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Se o campo elétrico gerado entre a nuvem e o solo for considerado uniforme, então, um pouco antes da descarga do raio, o valor desse campo elétrico será de cerca de 100 V/m.",
+     "explanation": "$E = V/d = 10^{8}/10^{3} = 10^{5}\\ \\text{V/m}$, e não 100 V/m."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "fisica/eletromagnetismo"
+   ],
+   "support": "> **Figura (descrição):** um feixe de partículas de velocidade constante entra, vindo da esquerda, numa região com campo magnético $\\vec{B}$ **entrando no papel**. A trajetória P3 curva-se para cima com raio grande; P4 curva-se para cima com raio pequeno; P2 segue em linha reta; P1 curva-se para baixo com raio pequeno. O feixe contém elétrons, pósitrons, prótons e nêutrons.",
+   "questions": [
+    {
+     "n": 41,
+     "type": "abcd",
+     "answer": "C",
+     "statement": "Na situação da figura, P1, P2, P3 e P4 melhor representam, respectivamente, os trajetos do",
+     "explanation": "Nêutron (sem carga) não se desvia: **P2**. Com $\\vec B$ entrando e $\\vec v$ para a direita, $\\vec F=q\\vec v\\times\\vec B$ aponta para cima se $q>0$: P3 e P4 são positivas; P1 é negativa (**elétron**). O raio é $r=\\dfrac{mv}{|q|B}$: o mais leve tem raio menor. Logo P4 = pósitron, P3 = próton.",
+     "options": [
+      "pósitron, do nêutron, do próton e do elétron.",
+      "próton, do pósitron, do nêutron e do elétron.",
+      "elétron, do nêutron, do próton e do pósitron.",
+      "elétron, do próton, do nêutron e do pósitron."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "fisica/eletrodinamica"
+   ],
+   "support": "> **Circuito:** bateria de 10 V ligada a um resistor $R = 40\\ \\Omega$ em série com um capacitor $C = 20\\ \\mu F$. A chave **A** liga a bateria ao conjunto R+C. A chave **B**, quando fechada, deixa o laço apenas com R e C (sem a bateria). Inicialmente A e B estão abertas e o capacitor está descarregado. Considere o circuito em equilíbrio quando a corrente é praticamente zero.",
+   "questions": [
+    {
+     "n": 99,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Considere que a chave A seja fechada, permanecendo assim até que o circuito entre em equilíbrio, e que, em seguida, a chave A seja aberta e a chave B seja fechada. Nesse caso, a corrente elétrica que irá atravessar o resistor logo após a chave B ser fechada estará no sentido contrário ao da corrente elétrica que passou pelo mesmo resistor no instante em que a chave A foi fechada.",
+     "explanation": "Fechando A, o capacitor carrega (corrente da bateria para o capacitor). Fechando B, ele **descarrega** pelo resistor, em sentido contrário."
+    },
+    {
+     "n": 100,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Considere que a chave B seja fechada, permanecendo assim até que o circuito entre em equilíbrio, quando ela é aberta novamente. Nesse caso, durante o tempo em que a chave fica fechada, a tensão elétrica no resistor é igual a 5 V.",
+     "explanation": "Com B fechada (sem bateria) e capacitor inicialmente descarregado, não há ddp nem corrente: a tensão no resistor é **0 V**."
+    },
+    {
+     "n": 101,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Se a chave A for fechada, haverá uma corrente elétrica até que o circuito entre em equilíbrio, situação em que o capacitor ficará totalmente carregado, com tensão de 10 V.",
+     "explanation": "No equilíbrio $I\\approx0$, logo $V_R=0$ e $V_C=\\varepsilon=10\\ \\text{V}$."
+    },
+    {
+     "n": 102,
+     "type": "num",
+     "answer": "250",
+     "statement": "Considerando que a chave A seja fechada, e permaneça assim até que o circuito entre em equilíbrio, calcule, em miliampère (mA), o valor da intensidade de corrente elétrica máxima sobre o resistor. Despreze a parte fracionária do resultado final, caso exista.",
+     "explanation": "A corrente é máxima em $t=0$ (capacitor descarregado): $I_{máx}=\\dfrac{V}{R}=\\dfrac{10}{40}=0{,}25\\ \\text{A}=250\\ \\text{mA}$."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "fisica/eletrostatica"
+   ],
+   "support": "> Considerando que, logo depois de ser atritada a cabelo seco, uma caneta de plástico seja aproximada a um pequeno monte de papel picado, julgue os itens a seguir.",
+   "questions": [
+    {
+     "n": 117,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Para ser atraído pela caneta, o papel tem que estar previamente eletrizado por algum outro mecanismo.",
+     "explanation": "Falso: o papel neutro se **polariza** (indução) e é atraído pela caneta eletrizada."
+    },
+    {
+     "n": 118,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Na situação apresentada, nada acontecerá; como o plástico é isolante, não há nenhuma forma de eletrização.",
+     "explanation": "Falso: isolantes também se eletrizam por **atrito** (triboeletrização); as cargas ficam retidas."
+    },
+    {
+     "n": 119,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A caneta ficará eletrizada pelo fato de o atrito causar a troca de elétrons com o cabelo, tal que um ficará eletrizado com carga elétrica positiva e o outro, com carga elétrica negativa.",
+     "explanation": "Atrito transfere elétrons: um corpo fica positivo e o outro negativo, com cargas de mesmo módulo."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "fisica/eletromagnetismo"
+   ],
+   "support": "> Considerando que um ímã, na forma de barra, se aproxima de uma bobina que está com seus terminais ligados entre si, assinale a opção correta.",
+   "questions": [
+    {
+     "n": 120,
+     "type": "abcd",
+     "answer": "B",
+     "statement": "Na situação apresentada,",
+     "explanation": "**Lei de Faraday-Lenz**: a aproximação do ímã varia o fluxo; a corrente induzida gera um campo que **se opõe** à variação do fluxo (tende a diminuir o campo do ímã). O sentido inverte ao afastar o ímã.",
+     "options": [
+      "não haverá corrente elétrica em nenhum momento, já que não existe bateria no circuito da bobina.",
+      "surgirá uma corrente induzida na bobina que cria um campo magnético induzido que tende a diminuir o campo magnético do ímã.",
+      "surgirá uma corrente induzida na bobina que cria um campo magnético induzido que tende a aumentar o campo magnético do ímã.",
+      "surgirá uma corrente induzida na bobina que será sempre no mesmo sentido, independentemente de o ímã se aproximar ou se afastar da bobina."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "biologia/fisiologia-humana"
+   ],
+   "support": "> Considerando que as queimadas, a exemplo das que ocorreram em todo o território nacional em 2024, provocam importantes alterações no ecossistema e afetam a saúde humana, julgue os itens subsequentes.",
+   "questions": [
+    {
+     "n": 42,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Ao chegarem aos brônquios, partículas de poeira e poluentes se aderem ao muco lá existente e são levadas à garganta por meio de movimentos peristálticos.",
+     "explanation": "Quem leva o muco até a garganta são os **cílios** (escada rolante mucociliar). Movimentos peristálticos ocorrem no tubo digestório."
+    },
+    {
+     "n": 43,
+     "type": "ce",
+     "answer": "C",
+     "statement": "As queimadas provocam a liberação de gás carbônico na atmosfera, o que contribui para o efeito estufa.",
+     "explanation": "A combustão da biomassa libera CO₂, gás de efeito estufa.",
+     "tags": [
+      "biologia/ecologia"
+     ]
+    },
+    {
+     "n": 44,
+     "type": "ce",
+     "answer": "E",
+     "statement": "O fenômeno de inversão térmica ocorre quando as camadas mais baixas da atmosfera estão mais quentes, o que ocasiona maior dispersão dos poluentes.",
+     "explanation": "Na inversão térmica, a camada de ar junto ao solo está **mais fria** que a de cima; isso impede a circulação do ar e **concentra** os poluentes.",
+     "tags": [
+      "biologia/ecologia"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "biologia/origem-da-vida-e-evolucao"
+   ],
+   "support": "> Uma amostra de urina foi cultivada em duas placas de Petri que continham um meio de cultura sólido adequado para o crescimento bacteriano. Em uma das placas, o meio continha penicilina; na outra placa, não foi adicionado nenhum antibiótico. Após uma semana, observou-se crescimento bacteriano em toda a placa sem antibiótico; na placa com antibiótico (penicilina), havia apenas uma pequena colônia de bactérias, o que levou à conclusão de que essa colônia apresenta resistência à penicilina.",
+   "questions": [
+    {
+     "n": 45,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A resistência a antibióticos pode surgir por uma mutação no DNA bacteriano que ocorre durante o processo de replicação do DNA.",
+     "explanation": "Mutações aleatórias (como erros de replicação) podem gerar genes de resistência.",
+     "tags": [
+      "biologia/genetica"
+     ]
+    },
+    {
+     "n": 46,
+     "type": "ce",
+     "answer": "E",
+     "statement": "O uso indiscriminado de antibióticos pode selecionar bactérias menos resistentes aos antibióticos.",
+     "explanation": "O uso indiscriminado seleciona bactérias **mais** resistentes: as sensíveis morrem e as resistentes proliferam."
+    },
+    {
+     "n": 47,
+     "type": "ce",
+     "answer": "C",
+     "statement": "O surgimento, durante o cultivo da amostra de urina, de bactérias capazes de sobreviver e crescer no meio com penicilina está de acordo com as propostas de Darwin.",
+     "explanation": "É seleção natural: variabilidade pré-existente + pressão seletiva (antibiótico) → sobrevivência e reprodução diferencial dos resistentes."
+    },
+    {
+     "n": 48,
+     "type": "abcd",
+     "answer": "C",
+     "statement": "As bactérias podem apresentar, além do DNA cromossômico, moléculas adicionais de DNA circular denominadas",
+     "explanation": "**Plasmídeos** são moléculas circulares de DNA extracromossômico, frequentemente portadoras de genes de resistência.",
+     "tags": [
+      "biologia/citologia"
+     ],
+     "options": [
+      "nucleoide.",
+      "pili.",
+      "plasmídeo.",
+      "endósporo."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "biologia/genetica"
+   ],
+   "support": "> Uma das principais doenças que ocasiona a retirada do globo ocular é o retinoblastoma, um tipo de câncer que afeta as células da retina. O risco de indivíduos com mutação no gene RB1, um supressor tumoral, transmitir o gene com a mutação para seus descendentes é de 50%.",
+   "questions": [
+    {
+     "n": 53,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Ter olhos azuis é um exemplo de fenótipo.",
+     "explanation": "Fenótipo é a característica observável resultante do genótipo e do ambiente."
+    },
+    {
+     "n": 54,
+     "type": "ce",
+     "answer": "E",
+     "statement": "A camada que reveste a câmara ocular é denominada conjuntiva.",
+     "explanation": "A camada que reveste internamente o globo ocular é a **retina**. A conjuntiva é a mucosa que cobre a parte anterior do olho e as pálpebras.",
+     "tags": [
+      "biologia/fisiologia-humana"
+     ]
+    },
+    {
+     "n": 55,
+     "type": "ce",
+     "answer": "C",
+     "statement": "O nervo óptico conduz os estímulos captados pelos fotorreceptores via tálamo até os centros da visão localizados no lado occipital de cada hemisfério cerebral.",
+     "explanation": "O nervo óptico leva o impulso ao corpo geniculado lateral do tálamo e, daí, ao córtex visual no lobo occipital.",
+     "tags": [
+      "biologia/fisiologia-humana"
+     ]
+    },
+    {
+     "n": 56,
+     "type": "ce",
+     "answer": "E",
+     "statement": "As pupilas se contraem em locais escuros.",
+     "explanation": "Em locais escuros as pupilas **dilatam** (midríase) para captar mais luz; contraem (miose) sob luz intensa.",
+     "tags": [
+      "biologia/fisiologia-humana"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "quimica/quimica-organica"
+   ],
+   "support": "> Quimicamente, os óleos e as manteigas são lipídios: moléculas formadas pela união de três moléculas de ácidos graxos com uma molécula de glicerol, resultando em um triacilglicerídeo e 3 H₂O (reação reversível).",
+   "questions": [
+    {
+     "n": 66,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Os óleos são líquidos à temperatura ambiente porque suas cadeias carbônicas são, em sua maioria, saturadas, ao passo que as manteigas são sólidas porque elas contêm uma maior proporção de insaturações em suas cadeias carbônicas.",
+     "explanation": "O item inverte os conceitos: óleos têm mais cadeias **insaturadas** (ligações duplas cis dificultam o empacotamento); manteigas têm mais cadeias **saturadas**."
+    },
+    {
+     "n": 67,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A reação de formação de um óleo a partir de glicerol e ácidos graxos é uma reação de esterificação.",
+     "explanation": "Álcool (glicerol) + ácido carboxílico (ácido graxo) → éster + água: esterificação."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "quimica/termoquimica"
+   ],
+   "support": "> Em rochas carbonáticas, a calcita reage com sílica formando wollastonita e liberando CO₂ gasoso, por meio da seguinte reação **endotérmica**:\n>\n> $\\mathrm{CaCO_3}\\,(calcita) + \\mathrm{SiO_2}\\,(s) \\rightarrow \\mathrm{CaSiO_3}\\,(wollastonita) + \\mathrm{CO_2}\\,(g)$\n>\n> | substância | $H_f^0$ (kJ/mol) |\n> |---|---|\n> | CaCO₃ (calcita) | −1.207 |\n> | SiO₂ (s) | −903,5 |\n> | CaSiO₃ (wollastonita) | −1.635 |\n> | CO₂ (g) | −393,5 |",
+   "questions": [
+    {
+     "n": 81,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Considere que pseudowollastonita seja uma forma polimórfica do CaSiO₃. Nesse caso, se, em vez de wollastonita, fosse formada, na reação em tela, pseudowollastonita, então a variação de entalpia da reação da calcita com sílica seria diferente daquela em que a wollastonita é formada.",
+     "explanation": "Polimorfos têm estruturas cristalinas diferentes e, portanto, entalpias de formação diferentes; logo o ΔH da reação mudaria."
+    },
+    {
+     "n": 82,
+     "type": "ce",
+     "answer": "E",
+     "statement": "O gráfico a seguir representa corretamente a variação de entalpia ao longo da reação da calcita com sílica. [Gráfico: energia dos reagentes em nível alto; a curva sobe até um máximo e desce até um nível de produtos **abaixo** do dos reagentes.]",
+     "explanation": "A reação é endotérmica ($\\Delta H>0$): os produtos têm **mais** energia que os reagentes. O gráfico descreve uma reação exotérmica."
+    },
+    {
+     "n": 83,
+     "type": "num",
+     "answer": "82",
+     "statement": "Calcule o valor da variação de entalpia-padrão, em kJ/mol, da reação apresentada, que ocorre em rochas carbonáticas. Despreze, para a marcação, a parte fracionária do resultado final, caso exista.",
+     "explanation": "$\\Delta H = \\sum H_f(\\text{produtos}) - \\sum H_f(\\text{reagentes}) = (-1635-393{,}5)-(-1207-903{,}5) = -2028{,}5+2110{,}5 = +82\\ \\text{kJ/mol}$ (endotérmica, como informado)."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "quimica/eletroquimica"
+   ],
+   "support": "> O coque de petróleo é um combustível fóssil sólido, derivado do petróleo por craqueamento térmico, processo que quebra moléculas grandes de hidrocarbonetos em moléculas menores e mais simples, como o poliacetileno e o acetileno ($\\mathrm{H{-}C{\\equiv}C{-}H}$). O poliacetileno é um polímero eletrocondutor obtido a partir da polimerização do acetileno e usado em baterias recarregáveis. Nas baterias de íons lítio, durante a **descarga**, os íons Li⁺ movem-se do ânodo (grafite litiado, $\\mathrm{Li}_x\\mathrm{C}_6$) para o cátodo (óxido de cobalto e lítio); na carga, a reação se inverte. Reação global:\n>\n> $$\\mathrm{Li}_x\\mathrm{C}_6 + \\mathrm{Li}_{1-x}\\mathrm{CoO}_2 \\rightleftharpoons \\mathrm{C}_6 + \\mathrm{LiCoO}_2$$",
+   "questions": [
+    {
+     "n": 111,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Para uma bateria, é correta a expressão $E_{bat} = E_c - E_a$, em que $E_{bat}$ representa o potencial da bateria, $E_c$, o potencial catódico, e $E_a$, o potencial anódico.",
+     "explanation": "A ddp da pilha é o potencial do cátodo menos o do ânodo."
+    },
+    {
+     "n": 112,
+     "type": "ce",
+     "answer": "E",
+     "statement": "A partir das informações apresentadas, é correto inferir que é possível gerar, por meio de craqueamento, um produto que sai de um prato mais baixo de uma torre de destilação fracionada de petróleo a partir de outro produto que sai de um prato mais alto dessa mesma torre.",
+     "explanation": "O craqueamento quebra frações **pesadas** (pratos mais baixos) em moléculas **menores** (que saem em pratos mais altos). O item inverte o sentido.",
+     "tags": [
+      "quimica/quimica-organica"
+     ]
+    },
+    {
+     "n": 113,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Na reação que ocorre em uma bateria recarregável de íons lítio enquanto ela é descarregada, o agente oxidante é o $\\mathrm{Li}_{1-x}\\mathrm{CoO}_2$ e o agente redutor é o $\\mathrm{Li}_x\\mathrm{C}_6$.",
+     "explanation": "Na descarga, o $\\mathrm{Li}_x\\mathrm{C}_6$ se oxida (cede elétrons: agente redutor) e o $\\mathrm{Li}_{1-x}\\mathrm{CoO}_2$ se reduz (agente oxidante)."
+    },
+    {
+     "n": 114,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Considerando-se que a solubilidade do acetileno em *n*-hexano é de 0,9 mol/L a 25 °C, infere-se que, em um litro de *n*-hexano a 25 °C, é possível dissolver mais de 25 g de acetileno.",
+     "explanation": "$M(\\mathrm{C_2H_2})=26\\ \\text{g/mol}$ → $0{,}9\\times26=23{,}4\\ \\text{g} < 25\\ \\text{g}$.",
+     "tags": [
+      "quimica/quimica-organica"
+     ]
+    },
+    {
+     "n": 115,
+     "type": "abcd",
+     "answer": "B",
+     "statement": "O poliacetileno é um polímero de",
+     "explanation": "Forma-se pela abertura da ligação tripla do acetileno e união dos monômeros **sem** liberar moléculas pequenas: polímero de **adição**.",
+     "tags": [
+      "quimica/quimica-organica"
+     ],
+     "options": [
+      "condensação.",
+      "adição.",
+      "rearranjo.",
+      "oligomerização."
+     ]
+    },
+    {
+     "n": 116,
+     "type": "abcd",
+     "answer": "D",
+     "statement": "O nome oficial (IUPAC) do acetileno é",
+     "explanation": "HC≡CH: 2 carbonos (et-) e ligação tripla (-ino) → **etino**.",
+     "tags": [
+      "quimica/quimica-organica"
+     ],
+     "options": [
+      "propino.",
+      "propeno.",
+      "eteno.",
+      "etino."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "matematica/geometria-analitica"
+   ],
+   "support": "> **Palácio do Itamaraty — figura I (descrição):** no plano cartesiano $xOy$ (em metros) estão os pontos $A(-3,0)$, $B(3,0)$, $C(0,9)$, $D(0,12)$, $E(-3,9)$ e $F(3,9)$. O arco externo do palácio é um círculo com centro em $C$ passando por $D$, $E$ e $F$.\n>\n> **Figura II:** a espiral da escadaria, projetada no plano complexo, é dada por $P=\\left[\\frac{2\\theta}{\\pi}\\cos(\\theta+\\pi)-1\\right]-i\\,\\frac{2\\theta}{\\pi}\\,\\mathrm{sen}(\\theta+\\pi)$, com $\\theta\\in[0,2\\pi]$.\n>\n> **Figura III:** *Ponto de Encontro* (Mary Vieira), com três volumes fixos semelhantes a bancos.",
+   "questions": [
+    {
+     "n": 84,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Se um dos três volumes semelhantes a banco da obra mostrados na figura III for dado pela remoção das metades de dois cilindros concêntricos com raios iguais a 100 cm e 60 cm, e ambos com altura 40 cm, então o respectivo volume será igual a $\\frac{116\\pi}{125}\\ \\text{m}^3$.",
+     "explanation": "$V=\\tfrac12\\,\\pi\\,(1^2-0{,}6^2)\\cdot0{,}4=0{,}128\\pi=\\dfrac{16\\pi}{125}\\ \\text{m}^3\\neq\\dfrac{116\\pi}{125}$.",
+     "tags": [
+      "matematica/geometria-espacial"
+     ]
+    },
+    {
+     "n": 85,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Em relação à figura II, para $\\theta=\\frac{5\\pi}{4}$, o ponto $P$ da espiral projetada no plano complexo será $P=-\\frac{5\\sqrt{2}}{4}(1+i)$.",
+     "explanation": "$\\cos(\\tfrac{9\\pi}{4})=\\mathrm{sen}(\\tfrac{9\\pi}{4})=\\tfrac{\\sqrt2}{2}$ e $\\tfrac{2\\theta}{\\pi}=\\tfrac52$. Parte real: $\\tfrac{5\\sqrt2}{4}-1$; parte imaginária: $-\\tfrac{5\\sqrt2}{4}$. A parte real do item ($-\\tfrac{5\\sqrt2}{4}$) está errada.",
+     "tags": [
+      "matematica/numeros-complexos"
+     ]
+    },
+    {
+     "n": 86,
+     "type": "ce",
+     "answer": "C",
+     "statement": "O círculo na figura I, que forma o arco externo do Palácio do Itamaraty, é representado pela equação $18y - x^2 - y^2 = 72$.",
+     "explanation": "Centro $(0,9)$ e raio $3$: $x^2+(y-9)^2=9 \\Rightarrow x^2+y^2-18y=-72 \\Rightarrow 18y-x^2-y^2=72$."
+    },
+    {
+     "n": 87,
+     "type": "num",
+     "answer": "58",
+     "statement": "Na situação da figura I, calcule, **em metros**, a distância entre o ponto $B$ e o segmento de reta que liga os pontos $A$ e $D$, utilizando, caso necessário, $\\sqrt{17}\\approx4{,}12$. Multiplique o valor encontrado por 10 e despreze a parte fracionária do resultado final.",
+     "explanation": "Reta $AD$: $y=4(x+3)\\Rightarrow 4x-y+12=0$. Distância de $B(3,0)$: $\\dfrac{|12+12|}{\\sqrt{17}}=\\dfrac{24}{4{,}12}\\approx5{,}825$ m. Vezes 10: $58{,}25\\to \\mathbf{58}$."
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "matematica/numeros-complexos"
+   ],
+   "support": "> A obra *Santa ceia moderna* (Acme) tem elementos geométricos. As caixas de pizza são prismas hexagonais cuja base é um hexágono regular; seus vértices podem ser representados pela equação $z^6=z_0$, em que $z_0=r[\\cos\\theta_0+i\\,\\mathrm{sen}\\,\\theta_0]$ e $r>0$.",
+   "questions": [
+    {
+     "n": 88,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Uma caixa de pizza cilíndrica com 16 cm de raio e 4 cm de altura tem a área superficial total igual a $640\\pi\\ \\text{cm}^2$.",
+     "explanation": "$A=2\\pi r^2+2\\pi r h=2\\pi\\cdot256+2\\pi\\cdot16\\cdot4=512\\pi+128\\pi=640\\pi$.",
+     "tags": [
+      "matematica/geometria-espacial"
+     ]
+    },
+    {
+     "n": 89,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Se a figura central e os dois convidados das extremidades permanecerem na mesma posição, o número de permutações possíveis dos demais convidados da ceia à mesa será 10!.",
+     "explanation": "Fixados esses três, permutam-se livremente os demais 10 convidados: $10!$ (gabarito oficial: C).",
+     "tags": [
+      "matematica/analise-combinatoria"
+     ]
+    },
+    {
+     "n": 93,
+     "type": "ce",
+     "answer": "E",
+     "statement": "A partir das informações apresentadas, é correto afirmar que os vértices do hexágono regular no plano complexo são dados pelos pontos $z_k = r\\left[\\cos\\left(\\frac{\\theta_0}{6}+\\frac{k\\pi}{3}\\right)+i\\,\\mathrm{sen}\\left(\\frac{\\theta_0}{6}+\\frac{k\\pi}{3}\\right)\\right]$, com $k\\in\\{0,1,2,3,4,5\\}$.",
+     "explanation": "As raízes sextas de $z_0$ têm módulo $\\sqrt[6]{r}$, e não $r$: $z_k=\\sqrt[6]{r}\\,[\\cos(\\tfrac{\\theta_0}{6}+\\tfrac{k\\pi}{3})+i\\,\\mathrm{sen}(\\ldots)]$."
+    },
+    {
+     "n": 94,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Considere que uma pizza perfeitamente circular com 15 cm de raio ocupe uma caixa, tangenciando suas paredes. Nesse caso, se a caixa tem 4 cm de altura, então o seu volume é igual a $1.800\\sqrt{3}\\ \\text{cm}^3$.",
+     "explanation": "O raio 15 é o apótema do hexágono: lado $\\ell=\\dfrac{2\\cdot15}{\\sqrt3}=10\\sqrt3$. Área da base $=\\dfrac{3\\sqrt3}{2}\\ell^2=450\\sqrt3$. Volume $=450\\sqrt3\\cdot4=1800\\sqrt3\\ \\text{cm}^3$.",
+     "tags": [
+      "matematica/geometria-espacial"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "matematica/probabilidade"
+   ],
+   "support": "> Segundo o IBGE, em 2022, 160 milhões de pessoas possuíam celular para uso pessoal no Brasil, o que equivale a 85% da população com mais de 10 anos. A posse foi de 89,0% entre residentes de áreas urbanas e 72,0% entre os de zonas rurais. Evolução da população com mais de 10 anos que possui celular:\n>\n> | ano | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |\n> |---|---|---|---|---|---|---|---|\n> | % | 77,4 | 78,4 | 80 | 81,4 | 82,6 | 84,4 | 86,5 |",
+   "questions": [
+    {
+     "n": 95,
+     "type": "ce",
+     "answer": "E",
+     "statement": "Suponha que, ao selecionar uma pessoa aleatoriamente, a probabilidade de que ela more em uma área urbana seja de 85%, e a probabilidade de que more em uma área rural seja de 15%. Nesse caso, se uma pessoa selecionada aleatoriamente possui um telefone celular, a probabilidade de que ela resida em uma área urbana é $\\frac{3}{17}$.",
+     "explanation": "Bayes: $P(U\\mid cel)=\\dfrac{0{,}85\\cdot0{,}89}{0{,}85\\cdot0{,}89+0{,}15\\cdot0{,}72}=\\dfrac{7565}{8645}\\approx0{,}875\\neq\\dfrac3{17}$."
+    },
+    {
+     "n": 96,
+     "type": "ce",
+     "answer": "C",
+     "statement": "A média do crescimento percentual da população com telefone celular entre 2016 e 2022 é superior a 1,5%.",
+     "explanation": "Variações anuais (pontos percentuais): 1,0; 1,6; 1,4; 1,2; 1,8; 2,1. Média $=9{,}1/6\\approx1{,}52>1{,}5$.",
+     "tags": [
+      "matematica/porcentagem"
+     ]
+    },
+    {
+     "n": 97,
+     "type": "ce",
+     "answer": "C",
+     "statement": "Conforme os dados do IBGE, no Brasil, a população com mais de 10 anos de idade é superior a 185 milhões de pessoas.",
+     "explanation": "$160\\ \\text{milhões}/0{,}85\\approx188{,}2\\ \\text{milhões}>185$.",
+     "tags": [
+      "matematica/porcentagem"
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "portugues/semantica",
+    "obras/pas3/textos"
+   ],
+   "support": "",
+   "questions": [
+    {
+     "n": 61,
+     "type": "abcd",
+     "answer": "A",
+     "statement": "No trecho de Achille Mbembe (*Necropolítica*): “**Dado que** funciona com base numa divisão entre vivos e mortos, esse poder é definido em relação ao campo biológico […]”, estariam mantidos a correção gramatical e os sentidos do texto caso a locução “Dado que” fosse substituída por",
+     "explanation": "“Dado que” é conjunção **causal**, como “uma vez que”. “À medida que” é proporcional; “desde que” é condicional; “posto que” tem valor concessivo na norma culta.",
+     "options": [
+      "Uma vez que.",
+      "À medida que.",
+      "Desde que.",
+      "Posto que."
+     ]
+    }
+   ]
+  },
+  {
+   "source": "PAS 3 2024",
+   "tags": [
+    "prova/pas3-2024",
+    "portugues/interpretacao-de-texto"
+   ],
+   "support": "> A velha, agachada à porta do quintal, lavava umas panelas com um trapo engordurado. O Antonico pensou: “Ao dizer a verdade eu havia de sujeitar minha mulher a viver em companhia de… uma tal criatura?” Estas últimas palavras foram arrastadas pelo seu espírito com verdadeira dor. A caolha levantou para ele o rosto, e o Antonico, vendo-lhe o pus na face, disse: [...]\n>\n> — Júlia Lopes de Almeida, *A caolha*.",
+   "questions": [
+    {
+     "n": 64,
+     "type": "ce",
+     "answer": "C",
+     "statement": "O segmento “O Antonico” (segundo período do primeiro parágrafo) faz parte de uma cadeia de coesão referencial na qual ele é retomado tanto por repetição como por substituição.",
+     "explanation": "Há retomada por **repetição** (“o Antonico”) e por **substituição** pronominal (“ele”, “lhe”).",
+     "tags": [
+      "portugues/sintaxe"
+     ]
+    },
+    {
+     "n": 65,
+     "type": "ce",
+     "answer": "C",
+     "statement": "No último período do primeiro parágrafo, o trecho “vendo-lhe o pus na face” tem o mesmo sentido de “vendo o pus na face dela”.",
+     "explanation": "O pronome “lhe” funciona como dativo possessivo: “vendo-lhe o pus na face” = “vendo o pus na face **dela**”.",
+     "tags": [
+      "portugues/sintaxe"
+     ]
+    }
+   ]
+  }
+ ]
+}
